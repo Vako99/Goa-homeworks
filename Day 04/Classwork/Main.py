@@ -4,4 +4,5 @@ print(base**exp)
 
 
 
-print(int(input("type base: ")) ** int(input("შეიყვანე exp:")))
+print(int(input(" base: ")) ** int(input("შეიყვანე exp:"))) 
+
