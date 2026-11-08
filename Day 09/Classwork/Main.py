@@ -18,9 +18,9 @@ else:
     print("acces denied")
 
 
-    name = input("enter ur name")
-    surname = input("enter ur surname")
+   name = input("enter ur name ")
+surname = input("enter ur surname ")
 
-    if name == "ლაშა" surname == "ლომიძე":
-           print("ლომოოო!")
-
+if name == "ლაშა":
+    if surname == "ლომიძე":
+        print("ლომოოო!!!")

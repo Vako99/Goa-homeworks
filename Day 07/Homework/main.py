@@ -64,3 +64,5 @@ Space = float(input("Free space; "))
 print("მეხსიერება საკმარისია;", Storage <= Space)
 
 
+
+
